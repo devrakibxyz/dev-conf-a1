@@ -256,6 +256,7 @@ h3 {
 .about {
   padding: 100px 8%;
   background: #fff;
+  display: flex;
 }
 
 .container {
